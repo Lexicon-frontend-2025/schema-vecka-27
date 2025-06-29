@@ -37,6 +37,7 @@ Efter denna vecka ska du:
 
 ## 🛠️ Övningar
 * [Sammanfattande övning av veckans koncept](https://github.com/Lexicon-frontend-2025/typescript_uppgift-vecka-1/blob/main/README.md) *(Denna är från förra veckan, men en bra repetition!)*
+* [Funktioner](https://github.com/Lexicon-frontend-2025/typescript_uppgift-funktioner)
 * Nya övningar kommer att presenteras under veckan som fokuserar på funktioner, DOM och händelsehantering.
 
 ## 🖥️ Slides
