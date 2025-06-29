@@ -41,6 +41,7 @@ Efter denna vecka ska du:
 * Nya övningar kommer att presenteras under veckan som fokuserar på funktioner, DOM och händelsehantering.
 
 ## 🖥️ Slides
+* [Funktioner](https://docs.google.com/presentation/d/1t0q8kVg3yWF4HMaql09jZQdKeraYVL8kv-WQlg9tQ3M/edit?usp=sharing)
 * Publiceras löpande under veckan.
 
 ## ➕ Övrigt
