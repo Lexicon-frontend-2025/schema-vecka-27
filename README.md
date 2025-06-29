@@ -50,7 +50,7 @@ Efter denna vecka ska du:
 ## 📑 Lektionsrepon
 
 * **[Måndag]** (Maja) - **Funktioner:** Namngivna, arrow-funktioner, parametrar, returvärden, inbyggda funktioner.
-* **[Tisdag]** (Maja) - **Objekt & Interfaces & Grundläggande DOM:** Repetition objekt, definiera typer med interfaces, hämta och ändra text i HTML-element.
+* **[Tisdag]** (Maja) - **Objekt & Interfaces & Grundläggande DOM:** Repetition objekt, definiera typer med interfaces. DOM-manipulation: hämta och ändra text i HTML-element.
 * **[Onsdag]** (Maja) - **Mer DOM & Händelsehantering:** Modifiera och skapa HTML-element, hantera användarinteraktioner (klick, input).
 * **[Torsdag]** (Maja) - **Syntaxförbättringar & Code-Along:** Destructuring, Spread Operator. Slå ihop koncepten. EM: Grupp-uppgift.
 * **[Fredag]** (Robert) - Redovisning av gruppuppgift.
