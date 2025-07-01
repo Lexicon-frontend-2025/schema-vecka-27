@@ -34,6 +34,7 @@ Efter denna vecka ska du:
 * [MDN – JavaScript Array methods](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array)
 * [MDN - Introduction to the DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction)
 * [MDN - Event reference](https://developer.mozilla.org/en-US/docs/Web/Events)
+* [MDN - Array.map()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map)
 
 ## 🛠️ Övningar
 * [Sammanfattande övning av veckans koncept](https://github.com/Lexicon-frontend-2025/typescript_uppgift-vecka-1/blob/main/README.md) *(Denna är från förra veckan, men en bra repetition!)*
