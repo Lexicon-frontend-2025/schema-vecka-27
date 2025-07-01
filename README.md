@@ -55,5 +55,5 @@ Efter denna vecka ska du:
 * **[Måndag](https://github.com/Lexicon-frontend-2025/lektion-30-jun)** (Maja) - **Funktioner:** Namngivna, arrow-funktioner, parametrar, returvärden, inbyggda funktioner.
 * **[Tisdag](https://github.com/Lexicon-frontend-2025/lektion-1-juli)** (Maja) - **Objekt & Interfaces & Grundläggande DOM:** Repetition objekt, definiera typer med interfaces. DOM-manipulation: hämta och ändra text i HTML-element.
 * **[Onsdag]** (Maja) - **Mer DOM & Händelsehantering:** Modifiera och skapa HTML-element, hantera användarinteraktioner (klick, input).
-* **[Torsdag]** (Robert & Maja) - **Eget arbete**
+* **[Torsdag]** (Robert & Maja) - **Repetition & Eget arbete**
 * **[Fredag]** (Robert) - Code review på valfri övning från veckan
