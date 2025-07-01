@@ -38,6 +38,7 @@ Efter denna vecka ska du:
 * [Sammanfattande övning av veckans koncept](https://github.com/Lexicon-frontend-2025/typescript_uppgift-vecka-1/blob/main/README.md) *(Denna är från förra veckan, men en bra repetition!)*
 * [Funktioner](https://github.com/Lexicon-frontend-2025/typescript_uppgift-funktioner)
 * [DOM-intro](https://github.com/Lexicon-frontend-2025/typescript_uppgift-DOM-manipulation/tree/main)
+* [Eventhantering](https://github.com/Lexicon-frontend-2025/typescript_uppgift-Eventhantering/)
 * Nya övningar kommer att presenteras under veckan som fokuserar på funktioner, DOM och händelsehantering.
 
 ## 🖥️ Slides
