@@ -44,6 +44,7 @@ Efter denna vecka ska du:
 ## 🖥️ Slides
 * [Funktioner](https://docs.google.com/presentation/d/1t0q8kVg3yWF4HMaql09jZQdKeraYVL8kv-WQlg9tQ3M/edit?usp=sharing)
 * [DOM-manipulation](https://docs.google.com/presentation/d/1KcEzk5GA-_fJfHy47UOhcE7TFh5GtRR0RuKxW376OUg/edit?usp=sharing)
+* [Eventhantering](https://docs.google.com/presentation/d/1hYkcrta3lFDBHJSko-Q--TlymDasp7r14NwcEPvOBbA/edit?usp=sharing)
 * Publiceras löpande under veckan.
 
 ## ➕ Övrigt
