@@ -12,8 +12,6 @@ Efter denna vecka ska du:
 3.  Förstå och kunna definiera egna typer för objekt med **interfaces** (och/eller `type`).
 4.  Förstå **Document Object Model (DOM)** och kunna interagera med HTML-element: hämta, modifiera, skapa och lägga till element dynamiskt.
 5.  Kunna hantera **händelser (events)** på DOM-element (t.ex. `click`) för att skapa interaktiva webbapplikationer.
-6.  Förstå och kunna använda **destructuring** för objekt och arrayer för att skriva mer koncis kod.
-7.  Förstå och kunna använda **spread operator** för objekt och arrayer för att kopiera och kombinera datastrukturer.
 
 ## 📚 Material
 
@@ -57,5 +55,5 @@ Efter denna vecka ska du:
 * **[Måndag](https://github.com/Lexicon-frontend-2025/lektion-30-jun)** (Maja) - **Funktioner:** Namngivna, arrow-funktioner, parametrar, returvärden, inbyggda funktioner.
 * **[Tisdag](https://github.com/Lexicon-frontend-2025/lektion-1-juli)** (Maja) - **Objekt & Interfaces & Grundläggande DOM:** Repetition objekt, definiera typer med interfaces. DOM-manipulation: hämta och ändra text i HTML-element.
 * **[Onsdag]** (Maja) - **Mer DOM & Händelsehantering:** Modifiera och skapa HTML-element, hantera användarinteraktioner (klick, input).
-* **[Torsdag]** (Robert) - **Syntaxförbättringar & Code-Along:** Destructuring, Spread Operator. Slå ihop koncepten. EM: Grupp-uppgift.
-* **[Fredag]** (Robert) - Redovisning av gruppuppgift.
+* **[Torsdag]** (Robert & Maja) - **Eget arbete**
+* **[Fredag]** (Robert) - Code review på valfri övning från veckan
