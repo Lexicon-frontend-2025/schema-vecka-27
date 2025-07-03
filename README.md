@@ -17,6 +17,7 @@ Efter denna vecka ska du:
 
 ### E‑Learning
 * Hela - [TypeScript: Big Picture (Pluralsight)](https://app.pluralsight.com/library/courses/typescript-big-picture/table-of-contents)
+* [DOM-manipulation i TS](https://app.pluralsight.com/library/courses/typescript-dom-manipulation/table-of-contents)
 * Extra för de som vill - [TypeScript Best Practices (Pluralsight)](https://app.pluralsight.com/library/courses/typescript-best-practices/table-of-contents)
 
 ### YouTube
