@@ -53,6 +53,7 @@ Efter denna vecka ska du:
 * [TypeScript Playground](https://www.typescriptlang.org/play) – testa kod direkt i webbläsaren.
 * [TypeScript Cheatsheet](https://github.com/Lexicon-frontend-2025/typescript-cheatsheet/blob/main/README.md) - cheatsheet a'la Maja.
 * [TypeScript Cheatsheets](https://github.com/typescript-cheatsheets) – lista av referenser.
+* [TypeScript Boilerplate](https://github.com/Lexicon-frontend-2025/ts-boilerplate)
 
 ## 📑 Lektionsrepon
 
