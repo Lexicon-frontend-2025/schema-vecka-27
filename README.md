@@ -23,7 +23,8 @@ Efter denna vecka ska du:
 ### YouTube
 * [TypeScript Course for Beginners – Academind](https://www.youtube.com/watch?v=BwuLxPH8IDs)
 * [TypeScript in 100 Seconds – Fireship](https://www.youtube.com/watch?v=zQnBQ4tB3ZA)
-* [TypwScript - The Basics](https://www.youtube.com/watch?v=ahCwqrYpIuM)
+* [TS: Intro and setup - Net Ninja](https://www.youtube.com/watch?v=2pZmKW9-I_k)
+* [TypeScript - The Basics](https://www.youtube.com/watch?v=ahCwqrYpIuM)
 * [Interfaces vs Types in TypeScript – onjsdev](https://www.youtube.com/watch?v=BTBftM7D9v8) *(Mycket relevant för denna vecka!)*
 
 ### Läsning
